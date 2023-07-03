@@ -1,0 +1,18 @@
+In the first page of the system, a simple name of the hotel will be shown(using ascii). The user can enter any key in order to proceed
+
+The new page will showcase the 3 category of rooms offered by the hotel. The user will be asked about their desired category
+        -The rate of the room will be decided by either these two:
+            -The rate will be shown under each respective room categories
+            -The user needs to choose first what room  they want. The rates will be shown right after that. The user will be ask if they want to 
+            pursue the transaction or choose another room category
+
+After choosing their desired room category, the user will be asked for their info. 
+        The info to be given are as follows:
+            - How many Indiividuals are going to use the room
+            - Name of the booker
+            - How many beds to be used
+            - How many hours to stay
+    
+    As the info are all provided, a receipt will be shown containing the price to be paid depending on the rate of the chosen room
+
+A panel of room will be shown. Red colored numbers means that it is 
