@@ -1,4 +1,4 @@
-In the first page of the system, a simple name of the hotel will be shown(using ascii). The user can enter any key in order to proceed
+In the first page of the system, a simple name of the hotel will be shown(using ascii art). The user can enter any key in order to proceed
 
 The new page will showcase the 3 category of rooms offered by the hotel. The user will be asked about their desired category
         -The rate of the room will be decided by either these two:
@@ -30,3 +30,15 @@ The user will be then redirected to the main menu where they are given the follo
 
 Points to consider:
 - Hotel admin and customer accounts are also doable Here
+
+-Room Availability Calendar: Implement a visual calendar that shows the availability of rooms for a given month. 
+    Users can view the availability of rooms on specific dates and make bookings accordingly.
+
+-Room Upgrades: Allow customers to upgrade their room category during the check-in process. 
+    Display the price difference between the current and upgraded room categories, and update the receipt accordingly.
+
+-Guest Feedback: Allow customers to provide feedback and ratings about their stay after checking out. Implement a feedback system where customers can rate different aspects of their experience, such as cleanliness, service, and facilities.
+
+-Booking Modifications: Enable customers to modify their bookings, such as changing the check-in/check-out dates, 
+    adding or removing guests, or updating special requests. Validate and apply the modifications, and update 
+    the booking details accordingly.
