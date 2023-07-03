@@ -8,11 +8,25 @@ The new page will showcase the 3 category of rooms offered by the hotel. The use
 
 After choosing their desired room category, the user will be asked for their info. 
         The info to be given are as follows:
-            - How many Indiividuals are going to use the room
+            - How many Individuals are going to use the room
             - Name of the booker
             - How many beds to be used
             - How many hours to stay
     
     As the info are all provided, a receipt will be shown containing the price to be paid depending on the rate of the chosen room
 
-A panel of room will be shown. Red colored numbers means that it is 
+A panel of room will be shown. Red colored numbers means that it is occupied and green means it is vacant. The user will be asked for the number 
+of the room that he/she wants to get 
+
+The user will be then redirected to the main menu where they are given the following choices:
+        -Do another booking
+        -See all booking 
+            Inside Here, the user will be redirected again to a screen where regular,premium,vip is shown.
+            When the user selected any of the three, a panel will be shown.
+            They can choose any red colored room to know the info about the current user of that room   
+                -There  is also an option to make a room vacant if the user already decided to leave the room
+            The user is always given the chance here to go back to main menu if ever that he/she don't want to proceed anymore
+
+
+Points to consider:
+- Hotel admin and customer accounts are also doable Here
