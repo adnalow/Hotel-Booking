@@ -11,6 +11,8 @@
 - [ ] Do a booking 4
 - [ ] Do a booking 5
 
+- [ ]Learn c++ console layout formatting
+
 ### Medium Priority
 
 - [ ] Formulate the logic that will allow the program to run
