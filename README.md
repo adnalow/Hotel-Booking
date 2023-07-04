@@ -12,7 +12,6 @@
 - [ ] Do a booking 3
 - [ ] Do a booking 4
 - [ ] Do a booking 5
-
 - [ ] Learn c++ console layout formatting
 
 ### Medium Priority
