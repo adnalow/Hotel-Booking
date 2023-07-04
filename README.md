@@ -1,3 +1,5 @@
+##Welcome to Rest n Go's Hotel Booking!
+
 ## Team Progress
 
 ### High Priority
