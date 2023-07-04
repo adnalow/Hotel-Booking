@@ -22,3 +22,16 @@
 ### Low Priority
 
 - [ ] Look for the possibility of implementing the room availability calendar
+
+
+### Week 1
+
+- [ ] Structure planning(Functionalities, ui, algorithms, etc...)
+
+### Week 2
+
+- [ ] Coding
+
+### Week 3
+
+- [ ] Debugging and Revisions
