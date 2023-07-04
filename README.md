@@ -1,4 +1,4 @@
-##Welcome to Rest n Go's Hotel Booking!
+## Welcome to Rest n Go's Hotel Booking!
 
 ## Team Progress
 
