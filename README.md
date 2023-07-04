@@ -1,28 +1,21 @@
-Hotel Room Booking
+## Team Progress
 
+### High Priority
 
-Team Progress
+- [ ] First Page
+- [ ] Main menu
+- [ ] Room Panels
+- [ ] Do a booking 1
+- [ ] Do a booking 2
+- [ ] Do a booking 3
+- [ ] Do a booking 4
+- [ ] Do a booking 5
 
-###High Priority
+### Medium Priority
 
--[ ]First Page
--[ ]Main menu
--[ ]Room Panels
--[ ]Do a booking 1
--[ ]Do a booking 2
--[ ]Do a booking 3
--[ ]Do a booking 4
--[ ]Do a booking 5
+- [ ] Formulate the logic that will allow the program to run
+- [ ] Run the program with its functionalities (just make it work for the meantime)
 
--[ ]learn how to format layout c++ console
+### Low Priority
 
-
-###Medium Priority
-
--[ ]Formulate the logic that will allow the program to run
--[ ]Run the program with its functionalities(just make it work for the meantime)
-
-
-###Low Priority
-
--[ ]Look for the possibility of implementing the room availability calendar
+- [ ] Look for the possibility of implementing the room availability calendar
