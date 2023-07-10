@@ -12,11 +12,11 @@
 - [ ] Do a booking 3
 - [ ] Do a booking 4
 - [ ] Do a booking 5
-- [ ] Learn c++ console layout formatting
+- [x] Learn c++ console layout formatting
 
 ### Medium Priority
 
-- [ ] Formulate the logic that will allow the program to run
+- [x] Formulate the logic that will allow the program to run
 - [ ] Run the program with its functionalities (just make it work for the meantime)
 
 ### Low Priority
@@ -26,7 +26,7 @@
 
 ### Week 1
 
-- [ ] Structure planning(Functionalities, ui, algorithms, etc...)
+- [x] Structure planning(Functionalities, ui, algorithms, etc...)
 
 ### Week 2
 
