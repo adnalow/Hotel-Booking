@@ -4,20 +4,20 @@
 
 ### High Priority
 
-- [ ] First Page
-- [ ] Main menu
-- [ ] Room Panels
-- [ ] Do a booking 1
-- [ ] Do a booking 2
-- [ ] Do a booking 3
-- [ ] Do a booking 4
-- [ ] Do a booking 5
+- [x] First Page
+- [x] Main menu
+- [x] Room Panels
+- [x] Do a booking 1
+- [x] Do a booking 2
+- [x] Do a booking 3
+- [x] Do a booking 4
+- [x] Do a booking 5
 - [x] Learn c++ console layout formatting
 
 ### Medium Priority
 
 - [x] Formulate the logic that will allow the program to run
-- [ ] Run the program with its functionalities (just make it work for the meantime)
+- [x] Run the program with its functionalities (just make it work for the meantime)
 
 ### Low Priority
 
