@@ -42,3 +42,18 @@
 - Please see the following link for the repository draft for this project
 - You can see here the complete process and development of this pproject
 - https://github.com/adnalow/Hotel-Booking-drafts
+
+
+### Authors
+
+Daniella Atienza
+-https://github.com/ellaaCA
+
+Princess Delos Santos
+-https://github.com/princessdlssnts
+
+Reinier Adrian Luna
+- https://github.com/adnalow
+
+
+
