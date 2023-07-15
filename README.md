@@ -40,7 +40,7 @@
 ### Important notes
 
 - Please see the following link for the repository draft for this project
-- You can see here the complete process and development of this pproject
+- You can see here the complete process and development of this project
 - https://github.com/adnalow/Hotel-Booking-drafts
 
 
