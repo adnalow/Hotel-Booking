@@ -30,8 +30,15 @@
 
 ### Week 2
 
-- [ ] Coding
+- [x] Coding
 
 ### Week 3
 
 - [ ] Debugging and Revisions
+
+
+### Important notes
+
+- Please see the following link for the repository draft for this project
+- You can see here the complete process and development of this pproject
+- https://github.com/adnalow/Hotel-Booking-drafts
