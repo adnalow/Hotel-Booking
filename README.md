@@ -47,10 +47,10 @@
 ### Authors
 
 Daniella Atienza
--https://github.com/ellaaCA
+- https://github.com/ellaaCA
 
 Princess Delos Santos
--https://github.com/princessdlssnts
+- https://github.com/princessdlssnts
 
 Reinier Adrian Luna
 - https://github.com/adnalow
