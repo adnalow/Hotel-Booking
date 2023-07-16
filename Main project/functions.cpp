@@ -502,7 +502,6 @@ void receipt() {
 
 
     )"<<std::endl;
-    system("cls");
     cout << "\n\n\t\t\t\t\t\t\t\tRECEIPT" << endl;
     cout << "\t\t\t\t\t\t\t\t--------------------------------" << endl;
 
