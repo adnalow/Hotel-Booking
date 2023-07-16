@@ -4,7 +4,6 @@
 #include <fstream>
 #include <chrono>
 #include <sstream>
-#include <vector>
 using namespace std;
 
 string opt2;
