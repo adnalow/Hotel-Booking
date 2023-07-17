@@ -34,7 +34,7 @@
 
 ### Week 3
 
-- [ ] Debugging and Revisions
+- [x] Debugging and Revisions
 
 
 ### Important notes
